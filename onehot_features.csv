@@ -1,0 +1,9 @@
+sentiment_negative,sentiment_neutral,sentiment_positive
+False,False,True
+False,False,True
+False,False,True
+True,False,False
+True,False,False
+False,False,True
+False,True,False
+False,False,True

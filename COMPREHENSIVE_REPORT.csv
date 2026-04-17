@@ -1,0 +1,8 @@
+Metric,Value
+Best Model,LR_BoW
+Worst Model,LR_BoW
+Avg LR Accuracy,0.6667
+Avg NB Accuracy,0.6667
+BoW Avg,0.6667
+TF-IDF Avg,0.6667
+Recommendation,Use TF-IDF with Logistic Regression

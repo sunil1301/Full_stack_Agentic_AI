@@ -1,0 +1,4 @@
+Category,Description
+Semantic Meaning,BoW fails to understand synonyms/polysemy
+Industry Use,TF-IDF default for most NLP tasks
+Limitations,"Cannot handle context, polysemy, semantic similarity"
